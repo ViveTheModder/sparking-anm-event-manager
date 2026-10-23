@@ -1,0 +1,25 @@
+byte-num,bit-num,desc
+0,0,Attach VFX to WAIST
+0,1,Attach VFX to TAIL1
+0,2,Attach VFX to SHANK_R
+0,3,Attach VFX to HEEL_R
+0,4,Attach VFX to SHANK_L
+0,5,Attach VFX to HEEL_L
+0,6,Attach VFX to SHOULDER_R
+0,7,Attach VFX to ELBOW_R
+1,0,Attach VFX to WRIST_R
+1,1,Attach VFX to SHOULDER_L
+1,2,Attach VFX to ELBOW_L
+1,3,Attach VFX to WRIST_L
+1,4,Attach VFX to NECK
+1,5,Attach VFX to EQUIPMENT01
+1,6,Attach VFX to EQUIPMENT02
+1,7,Attach VFX to NULL
+2,0,Attach VFX to EFFECT_R
+2,1,Attach VFX to EFFECT_L
+2,2,Attach VFX to UTILITY
+2,3,Unknown
+2,4,Unknown
+2,5,Unknown
+2,6,Unknown
+2,7,Unknown
